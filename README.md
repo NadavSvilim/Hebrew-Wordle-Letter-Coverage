@@ -1,6 +1,6 @@
 ## Hebrew Letter Coverage Analysis
 
-This project was inspired by the game *Wordle*, where players guess 5-letter words in a Bulls and Cows style.
+This project was inspired by the game *Wordle*, where players guess 5-letter words in a Bulls and Cows style and a youtube video of the mathematician Matt Parker.
 
 I wondered: is it possible to find **four 5-letter Hebrew words** that together contain **20 out of the 22 Hebrew letters**?
 
