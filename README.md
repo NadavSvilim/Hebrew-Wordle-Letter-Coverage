@@ -39,7 +39,7 @@ However, the project was a fun and insightful challenge, applying algorithmic th
 
 ---
 
-###Author
+### Author
 
 Nadav Svilim — Software Engineering Student @ BGU  
 GitHub: [@NadavSvilim](https://github.com/NadavSvilim)
